@@ -1,0 +1,21 @@
+h1{
+    color:deepskyblue;
+    text-align:center ;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+    color:gold;
+    font-style:italic;
+
+}
+#formulaire{
+    text-align: center;
+}
+
+body{
+    background-image: url("./image/train.jpg");
+    background-size: cover;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
